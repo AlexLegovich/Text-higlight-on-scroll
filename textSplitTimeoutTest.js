@@ -46,8 +46,6 @@ window.addEventListener('load', () => {
           })
         })
       })
-
-      ScrollTrigger.refresh()
     })
   }, 300)
 })
